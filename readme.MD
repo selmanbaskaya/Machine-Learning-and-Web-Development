@@ -5,22 +5,22 @@
 
 ## ToDo List
 ### Machine Learning
-- [ ] Veri etiketleme
-- [ ] Veri hazırlama
-- [ ] Modelin eğitimi
-- [ ] Modelin optimize edilmesi
+- [ ] Data labeling
+- [ ] Data preparation
+- [ ] Training of the ML Model
+- [ ] Optimization of ML Model
 
 ### Web Application
-- [ ] Flask kurulumu
-- [ ] Arayüzün tasarlanması
-- [ ] Arayüzün kodlanması
+- [ ] Install Flask
+- [ ] Designing the interface
+- [ ] Coding the interface
 
 ### Integration of Machine Learning and Web Application
-- [ ] ML modeli için Pickle dosyasının oluşturulması
-- [ ] Parametrelerin modele gönderilmesi ve web uygulamasının etkilenmesi
+- [ ] Creation of Pickle file for ML model
+- [ ] Affecting the web application with parameters
 
 ### Bonus
-- [ ] Heroku deploy
+- [ ] Deploy on Heroku
 
 ****
 
