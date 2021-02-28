@@ -7,8 +7,8 @@
 
 ****
 
-### [YouTube Channel](https://www.youtube.com/channel/UCqaZGIkvE8IrgyCdnTAF8Hw)
-### [Tanıtım | Kanal İçeriği | Machine Learning & Web Development Projesi #0](https://www.youtube.com/watch?v=BkprXbS6tA4)
+[YouTube Channel](https://www.youtube.com/channel/UCqaZGIkvE8IrgyCdnTAF8Hw)
+[Tanıtım | Kanal İçeriği | Machine Learning & Web Development Projesi #0](https://www.youtube.com/watch?v=BkprXbS6tA4)
 
 ****
 
