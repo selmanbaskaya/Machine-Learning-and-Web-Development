@@ -7,9 +7,10 @@
 
 ****
 
-- [YouTube Channel](https://www.youtube.com/channel/UCqaZGIkvE8IrgyCdnTAF8Hw)
+- [YouTube Channel](https://www.youtube.com/SelmanBaskaya)
 - [Tanıtım | Kanal İçeriği | Machine Learning & Web Development Projesi #0](https://www.youtube.com/watch?v=BkprXbS6tA4)
 - [Veri Tipleri, Kolon ve Encoding İşlemleri | Machine Learning & Web Development Projesi #1](https://www.youtube.com/watch?v=uba0iHWMsCY)
+- [train_test_split() - Linear Regression - statsmodels | Machine Learning & Web Development Projesi #2](https://www.youtube.com/watch?v=IPCLX1E0mo4)
 
 ****
 
@@ -17,8 +18,8 @@
 ### Machine Learning
 - [x] Data labeling
 - [x] Data preparation
-- [ ] Training of the ML Model
-- [ ] Optimization of ML Model
+- [x] Training of the ML Model
+- [x] Optimization of ML Model
 
 ### Web Application
 - [ ] Install Flask
