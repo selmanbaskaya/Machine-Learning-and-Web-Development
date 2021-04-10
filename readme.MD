@@ -22,12 +22,12 @@
 - [x] Optimization of ML Model
 
 ### Web Application
-- [ ] Install Flask
+- [x] Install Flask
 - [ ] Designing the interface
 - [ ] Coding the interface
 
 ### Integration of Machine Learning and Web Application
-- [ ] Creation of Pickle file for ML model
+- [x] Creation of Pickle file for ML model
 - [ ] Affecting the web application with parameters
 
 ### Bonus
