@@ -9,8 +9,9 @@
 
 - [YouTube Channel](https://www.youtube.com/SelmanBaskaya)
 - [Tanıtım | Kanal İçeriği | Machine Learning & Web Development Projesi #0](https://www.youtube.com/watch?v=BkprXbS6tA4)
-- [Veri Tipleri, Kolon ve Encoding İşlemleri | Machine Learning & Web Development Projesi #1](https://www.youtube.com/watch?v=uba0iHWMsCY)
-- [train_test_split() - Linear Regression - statsmodels | Machine Learning & Web Development Projesi #2](https://www.youtube.com/watch?v=IPCLX1E0mo4)
+- [Veri Tipleri, Kolon ve Encoding İşlemleri](https://www.youtube.com/watch?v=uba0iHWMsCY)
+- [train_test_split() - Linear Regression - statsmodels](https://www.youtube.com/watch?v=IPCLX1E0mo4)
+- [Pickle Nedir? İlk Flask App'imizi Oluşturalım](https://youtu.be/0q8qrOZSILM)
 
 ****
 
