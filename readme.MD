@@ -24,8 +24,8 @@
 
 ### Web Application
 - [x] Install Flask
-- [ ] Designing the interface
-- [ ] Coding the interface
+- [x] Designing the interface
+- [x] Coding the interface
 
 ### Integration of Machine Learning and Web Application
 - [x] Creation of Pickle file for ML model
