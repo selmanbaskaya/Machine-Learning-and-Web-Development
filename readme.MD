@@ -12,6 +12,7 @@
 - [Veri Tipleri, Kolon ve Encoding İşlemleri](https://www.youtube.com/watch?v=uba0iHWMsCY)
 - [train_test_split() - Linear Regression - statsmodels](https://www.youtube.com/watch?v=IPCLX1E0mo4)
 - [Pickle Nedir? İlk Flask App'imizi Oluşturalım](https://youtu.be/0q8qrOZSILM)
+- [Flask ile Web Uygulaması Arayüzünü Hazırlama ](https://www.youtube.com/watch?v=C3kfPjJH0CU)
 
 ****
 
