@@ -30,7 +30,7 @@
 
 ### Integration of Machine Learning and Web Application
 - [x] Creation of Pickle file for ML model
-- [ ] Affecting the web application with parameters
+- [x] Affecting the web application with parameters
 
 ### Bonus
 - [ ] Deploy on Heroku
