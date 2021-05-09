@@ -14,7 +14,7 @@
   </head>
   <body>
     <div class="container">
-      <div class="alert alert-dark mt-3">
+      <div class="alert alert-dark mt-3 text-center">
         Uzaktan Eğitimin Verimliliği ve Referans Sistemi
       </div>
       <div class="d-flex justify-content-center">
@@ -196,6 +196,10 @@
             <div class="d-flex justify-content-end">
               <button type="submit" class="btn btn-info">Tahmini Gör</button>
             </div>
+
+			<div class="card-footer text-center mt-3">
+				<label>Uzaktan Eğitim Verimlilik Puanı Tahmini (1-5): {{ prediction_text }}</label>
+			</div>
           </form>
         </div>
       </div>
